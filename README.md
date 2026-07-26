@@ -58,4 +58,4 @@ kayran@KVChaves:~$ _
 
 | Project | Description | Tech Stack | Link |
 |---|---|---|---|
-| **PhaseGen** | Pipeline autônomo que integra LLMs e Stable Diffusion para gerar níveis de jogo 2D de forma procedural — sprites, cenários, objetivos e diálogos. TCC (IFBA), defendido com nota 10. | ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godotengine&logoColor=white) | [🔗 GitHub](https://github.com/KVChaves/PhaseGen) |
+| **PhaseGen** | Pipeline autônomo que integra LLMs e Stable Diffusion para gerar assets de forma procedural — sprites, cenários, objetivos e diálogos. | ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godotengine&logoColor=white) | [🔗 GitHub](https://github.com/KVChaves/PhaseGen) |
