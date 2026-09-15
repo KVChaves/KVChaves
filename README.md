@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2" width="100%" />
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kayranchaves2002@gmail.com)
+[![Gmail](https://img.shields.io/badge/-GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kvchaves.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayranvieirachaves/)
 
 </div>
